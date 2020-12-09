@@ -14,6 +14,6 @@
 <img width="731" alt="11번" src="https://user-images.githubusercontent.com/73391897/101608982-bfcf7580-3a49-11eb-9c9b-d7bb3ec5a623.PNG">
 <img width="732" alt="12번" src="https://user-images.githubusercontent.com/73391897/101608984-c0680c00-3a49-11eb-8578-4bf506e709d3.PNG">
 <img width="731" alt="13번" src="https://user-images.githubusercontent.com/73391897/101608985-c100a280-3a49-11eb-8b90-c14af634e4e8.PNG">
-<img width="1124" alt="14번" src="https://user-images.githubusercontent.com/73391897/101610433-944d8a80-3a4b-11eb-9cbb-08b84ae0b83e.PNG">
+<img width="1115" alt="14번" src="https://user-images.githubusercontent.com/73391897/101610688-edb5b980-3a4b-11eb-966b-c35265506f44.PNG">
 <img width="1122" alt="15번" src="https://user-images.githubusercontent.com/73391897/101609809-c3173100-3a4a-11eb-87d8-2218a23be09b.PNG">
 
